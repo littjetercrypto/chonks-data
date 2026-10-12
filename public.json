@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T04:28:33.321Z",
+  "updatedAt": "2026-10-12T21:56:41.033Z",
   "firstBurnAt": "2026-10-09T03:36:41.862Z",
   "totals": {
     "STONK": {
@@ -7,8 +7,8 @@
       "burnCount": 2
     },
     "CHONKS": {
-      "burned": 1067965.501892,
-      "burnCount": 2
+      "burned": 1914953.299528,
+      "burnCount": 3
     }
   },
   "daily": [
@@ -16,9 +16,20 @@
       "date": "2026-10-09",
       "STONK": 110.650119488,
       "CHONKS": 1067965.501892
+    },
+    {
+      "date": "2026-10-12",
+      "CHONKS": 846987.797636
     }
   ],
   "recent": [
+    {
+      "ts": "2026-10-12T21:56:41.032Z",
+      "symbol": "CHONKS",
+      "amount": 846987.797636,
+      "signature": "2dBMgUjALSMLv1NdjFd962HA6dUk18eJ8P5fzt5CAdbUHAWeoq3v9EmHj87NWamy7erF71eW5ngdRNpkaSsuT9or",
+      "url": "https://solscan.io/tx/2dBMgUjALSMLv1NdjFd962HA6dUk18eJ8P5fzt5CAdbUHAWeoq3v9EmHj87NWamy7erF71eW5ngdRNpkaSsuT9or"
+    },
     {
       "ts": "2026-10-09T04:28:33.321Z",
       "symbol": "STONK",
